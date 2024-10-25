@@ -1,0 +1,20 @@
+[
+    {
+        "name": "After Effects",
+        "icon": "https://i.postimg.cc/XvmSRgJm/image.png"
+    },
+    {
+        "name": "Premiere Pro",
+        "icon": "https://i.postimg.cc/VNGv2fK7/image.png"
+    },
+    {
+        "name": "Davinci Resolve",
+        "icon": "https://i.postimg.cc/pLG45rkY/image.png"
+    },
+    {
+        "name": "Capcut",
+        "icon": "https://i.postimg.cc/PqVfSdyd/capcut-1.png",
+        "height": 100,
+        "width": 100
+    }
+]
